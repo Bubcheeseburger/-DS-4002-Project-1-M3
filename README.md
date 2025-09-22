@@ -15,7 +15,7 @@ This is the repository for analysis for Project 1 in DS 4002
 
 ## Section 2: File Structure
 ```
--DS-4002-Project-1-M3/
+├DS-4002-Project-1-M3/
 │
 ├── DATA/ # Raw and processed data files
 │ ├── food.csv # USDA FoodData Central food reference data
@@ -34,3 +34,6 @@ This is the repository for analysis for Project 1 in DS 4002
 ├── README.md # Project overview and instructions
 └── LICENSE # License file (if applicable)
 ```
+
+
+## Section 3: How To Reproduce
