@@ -9,6 +9,6 @@ This is the repository for analysis for Project 1 in DS 4002
   - Pandas (data manipulation)
   - Numpy (numerical operation)
   - Scikit-learn (machine learning)
-  - Matplotlib, Seaborg (visualization)
+  - Matplotlib, Seaborn (visualization)
 
 ### This project was deveopled on MacOS and Windows
