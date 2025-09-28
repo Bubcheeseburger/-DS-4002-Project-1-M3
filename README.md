@@ -25,6 +25,7 @@ This is the repository for analysis for Project 1 in DS 4002
 ├── OUTPUT/ # Generated charts and figures for reporting
 │ ├── freq_ingredients.png # Output chart for IngredientPrevalance.ipynb that shows how frequent certain ingredient list lengths ar
 │ ├── top_ingredients.png # Output chart for Frequency.ipynb that shows how frequent certain ingredients are
+│ ├── class_distribution.png # Output chart from MI3_Methodology.ipynb
 │ ├── confusion_matrix_counts.png  # Output chart from MI3_Methodology.ipynb
 │ └── confusion_matrix_normalized.png # Output chart from MI3_Methodology.ipynb
 │
